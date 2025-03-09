@@ -17,3 +17,13 @@ function adicionarAmigo() {
     input.value = "";
     atualizarLista();
 }
+function atualizarLista() {
+    const lista = document.getElementById('listaAmigos');
+    lista.innerHTML = "";
+    
+    amigos.forEach(amigo => {
+        const li = document.createElement("li");
+        li.textContent = amigo;
+        lista.appendChild(li);
+    });
+}
