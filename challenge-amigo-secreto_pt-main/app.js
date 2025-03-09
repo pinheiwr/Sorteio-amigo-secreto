@@ -38,3 +38,11 @@ function sortearAmigo() {
 
     exibirResultado(amigoSorteado);
 }
+function exibirResultado(amigoSorteado) {
+    const listaResultado = document.getElementById('resultado');
+    listaResultado.innerHTML = ""; // Limpa o resultado anterior
+
+    const li = document.createElement("li");
+    li.textContent = `🎉 O amigo secreto sorteado é: ${amigoSorteado}`;
+    listaResultado.appendChild(li);
+}
