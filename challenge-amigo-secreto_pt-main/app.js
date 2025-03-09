@@ -27,3 +27,14 @@ function atualizarLista() {
         lista.appendChild(li);
     });
 }
+function sortearAmigo() {
+    if (amigos.length < 2) {
+        alert('Adicione pelo menos 2 amigos para sertear!');
+        return;
+    }
+
+    const indiceSorteado = Math.floor(Math.random() * amigos.length);
+    const amigoSorteado = amigos[indiceSorteado];
+
+    exibirResultado(amigoSorteado);
+}
