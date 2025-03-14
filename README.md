@@ -43,6 +43,8 @@ cd sorteio-amigo-secreto
 
 - O nome do sorteado será exibido na tela.
 
+<img src="https://github.com/pinheiwr/Sorteio-amigo-secreto/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true" alt="Funcionamento" width="300">
+
 ## Tecnologias Utilizadas
 
 <div>
