@@ -69,7 +69,25 @@ cd sorteio-amigo-secreto
 
 - Criar um design mais aprimorado utilizando CSS moderno.
 
-Feito com ❤️ para facilitar a diversão entre amigos! 
+## Como Contribuir
+
+Se você deseja contribuir para este projeto, siga os passos:
+
+- Faça um fork do repositório.
+
+- Crie uma nova branch:
+
+- git checkout -b Descrição da sua melhoria
+
+Faça suas modificações e commit:
+
+- git commit -m "Descrição do commit"
+
+Envie as alterações:
+
+- git push origin Descrição da sua melhoria
+
+Abra um Pull Request.
 
 ## 👤 Autor
 
@@ -77,3 +95,7 @@ Feito com ❤️ para facilitar a diversão entre amigos!
   <img src="https://github.com/pinheiwr/Sorteio-amigo-secreto/blob/main/1714315682106.jpg?raw=true" alt="Wellington Rodrigues" width="100">
   <p>Wellington Rodrigues</p>
 </div>         
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
