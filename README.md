@@ -69,6 +69,10 @@ cd sorteio-amigo-secreto
 
 - Criar um design mais aprimorado utilizando CSS moderno.
 
+## Status do Desenvolvimento
+
+🚧 Este projeto está em desenvolvimento. 🚧
+
 ## Como Contribuir
 
 Se você deseja contribuir para este projeto, siga os passos:
@@ -99,3 +103,4 @@ Abra um Pull Request.
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
